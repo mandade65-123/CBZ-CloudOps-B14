@@ -1,0 +1,24 @@
+                                      Data Structure
+
+Data Structure types:
+1. List
+2. Tuple
+3. Sets
+4. Dictionary
+
+1. List : []
+--> List is a collection of items that are ordered and chaneable (mutable)
+--> Key Characteristics:
+1. Ordered: The items in a list have a defined order, and this order will not chnage 
+            unless you exlicitly modify it.
+2. Mutable: you can change, add and remove items after the list has been created.
+3. Allow Duplications: List can contain multipleitems with the same value.
+eg:
+
+my_list = [1,2,3,"seema","Amit",3]
+
+Devops engg:
+1. Server names
+2. Service names
+3. File names
+4. Environments
